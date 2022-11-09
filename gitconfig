@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = Chwal
+	email = laurent.poyet@gmail.com
 	name = The
